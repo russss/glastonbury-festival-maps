@@ -14,12 +14,13 @@
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.46"
-   sodipodi:docname="Glasto map.svg"
+   sodipodi:docname="map.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
    inkscape:export-filename="/home/russ/Desktop/Glasto map.png"
    inkscape:export-xdpi="250.01105"
-   inkscape:export-ydpi="250.01105">
+   inkscape:export-ydpi="250.01105"
+   style="display:inline">
   <defs
      id="defs4">
     <marker
@@ -82,6 +83,13 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 526.18109 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4112"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -94,13 +102,13 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="758.82681"
-     inkscape:cy="880.4712"
+     inkscape:cx="1213.0701"
+     inkscape:cy="931.10034"
      inkscape:document-units="px"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="layer16"
      showgrid="false"
-     inkscape:window-width="1270"
-     inkscape:window-height="945"
+     inkscape:window-width="1279"
+     inkscape:window-height="949"
      inkscape:window-x="0"
      inkscape:window-y="25"
      showguides="true"
@@ -125,25 +133,41 @@
   </metadata>
   <g
      inkscape:groupmode="layer"
+     id="layer16"
+     inkscape:label="2009 Fine Guide Map"
+     style="opacity:0.77949709;display:none"
+     sodipodi:insensitive="true">
+    <image
+       y="24.5"
+       x="8"
+       id="image4114"
+       height="1681.4468"
+       width="2268"
+       sodipodi:absref="/home/russ/Documents/Glastonbury Maps/fineguide-08-may(1).jpg"
+       xlink:href="fineguide-08-may(1).jpg" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer4"
-     style="opacity:0.87363634;display:none"
+     style="opacity:0.36750482;display:none"
      transform="translate(312.71057,9.199219e-6)"
      sodipodi:insensitive="true">
     <image
-       y="25.342319"
-       x="-312.71057"
+       y="21.342319"
+       x="-302.71057"
        id="image2605"
-       height="1680.3302"
-       width="2286.1121"
+       height="1688.3302"
+       width="2266.1121"
        sodipodi:absref="/home/russ/Desktop/fineguidemap2008-1280(1).jpg"
        xlink:href="fineguidemap2008-1280(1).jpg" />
   </g>
   <g
-     inkscape:label="Site Plan"
+     inkscape:label="2007 Site Plan"
      inkscape:groupmode="layer"
      id="layer1"
      style="opacity:0.64096913;display:none"
-     transform="translate(675.56769,295.49496)">
+     transform="translate(675.56769,295.49496)"
+     sodipodi:insensitive="true">
     <image
        y="-295.49496"
        x="-362.85712"
@@ -1471,7 +1495,8 @@
      id="layer6"
      inkscape:label="Hedges"
      sodipodi:insensitive="true"
-     transform="translate(2.578125e-6,4.5996094e-6)">
+     transform="translate(2.578125e-6,4.5996094e-6)"
+     style="display:inline">
     <path
        style="fill:none;fill-rule:evenodd;stroke:#008000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 976.55297,1519.0874 L 984.28571,1511.4286 L 993.92857,1503.9286 L 1001.7857,1496.25 L 1010,1485.7143 L 1017.1429,1477.6786 L 1011.25,1472.5 L 1002.3214,1465 L 999.82142,1462.6786"
@@ -2400,7 +2425,8 @@
      id="layer13"
      inkscape:label="Pedestrian Gates"
      sodipodi:insensitive="true"
-     transform="translate(2.578125e-6,4.5996094e-6)">
+     transform="translate(2.578125e-6,4.5996094e-6)"
+     style="display:inline">
     <g
        id="g5543"
        transform="translate(19.79899,41.012193)">
@@ -2544,7 +2570,8 @@
      id="layer14"
      inkscape:label="Vehicle Gates"
      sodipodi:insensitive="true"
-     transform="translate(2.578125e-6,4.5996094e-6)">
+     transform="translate(2.578125e-6,4.5996094e-6)"
+     style="display:inline">
     <path
        sodipodi:type="arc"
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#800080;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -2805,7 +2832,8 @@
      id="layer8"
      inkscape:label="Buildings"
      sodipodi:insensitive="true"
-     transform="translate(2.578125e-6,4.5996094e-6)">
+     transform="translate(2.578125e-6,4.5996094e-6)"
+     style="display:inline">
     <path
        style="fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 1036.6071,552.32144 L 1032.6786,540.35715 L 1049.8214,535.71429 L 1051.0714,539.82144 L 1071.25,533.57144 L 1073.75,541.78572 L 1076.7857,540.71429 L 1074.6429,534.64286 L 1080.1786,532.85715 L 1083.3929,537.50001 L 1084.4643,536.07144 L 1086.4286,538.21429 L 1115.7143,530.89286 L 1120.1786,533.92858 L 1107.6786,538.03572 L 1107.8571,539.82144 L 1103.75,540.53572 L 1102.6786,539.10715 L 1088.75,543.57144 L 1086.9643,541.96429 L 1057.1429,550.71429 L 1054.6429,547.32144 L 1036.6071,552.32144 z"
@@ -3192,7 +3220,8 @@
      id="layer9"
      inkscape:label="Labels"
      style="display:inline"
-     transform="translate(2.578125e-6,4.5996094e-6)">
+     transform="translate(2.578125e-6,4.5996094e-6)"
+     sodipodi:insensitive="true">
     <text
        transform="translate(312.71057,4.5996096e-6)"
        xml:space="preserve"
@@ -4063,14 +4092,14 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot4240"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Bitstream Vera Sans;font-style:normal;font-weight:normal;font-size:10px;-inkscape-font-specification:Bitstream Vera Sans;font-stretch:normal;font-variant:normal;text-anchor:middle;text-align:center;writing-mode:lr;line-height:100%"><flowRegion
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"><flowRegion
          id="flowRegion4242"><rect
            id="rect4244"
            width="36.5"
            height="13.5"
            x="1157.5"
            y="893.5" /></flowRegion><flowPara
-         id="flowPara4246"></flowPara></flowRoot>    <text
+         id="flowPara4246" /></flowRoot>    <text
        sodipodi:linespacing="125%"
        id="text4254"
        y="912.17688"
@@ -4107,13 +4136,26 @@
          id="tspan4270"
          x="980.5"
          y="1211">Greenpeace</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="1311.0927"
+       y="876.21301"
+       id="text4131"
+       sodipodi:linespacing="100%"
+       transform="matrix(0.93872,0.3446806,-0.3446806,0.93872,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4133"
+         x="1311.0927"
+         y="876.21301">Green Futures</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer15"
      inkscape:label="Key"
      transform="translate(2.578125e-6,4.5996094e-6)"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <rect
        style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.42898297;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5773"
@@ -4228,16 +4270,24 @@
          id="tspan4196"
          style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">Creative Commons Non-Commercial Sharealike license</tspan></text>
   </g>
-  <text
+  <flowRoot
      xml:space="preserve"
-     style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
-     x="1336.9218"
-     y="858.03448"
-     id="text4131"
-     sodipodi:linespacing="100%"
-     transform="matrix(0.93872,0.3446806,-0.3446806,0.93872,0,0)"><tspan
-       sodipodi:role="line"
-       id="tspan4133"
-       x="1336.9218"
-       y="858.03448">Green Futures</tspan></text>
-</svg>
+     id="flowRoot4120"
+     style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Bitstream Vera Sans;font-style:normal;font-weight:normal;font-size:10px;-inkscape-font-specification:Bitstream Vera Sans;font-stretch:normal;font-variant:normal;text-anchor:middle;text-align:center;writing-mode:lr;line-height:100%"><flowRegion
+       id="flowRegion4122"><rect
+         id="rect4124"
+         width="80"
+         height="38"
+         x="798"
+         y="1178" /></flowRegion><flowPara
+       id="flowPara4126"></flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4128"
+     style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Bitstream Vera Sans;font-style:normal;font-weight:normal;font-size:10px;-inkscape-font-specification:Bitstream Vera Sans;font-stretch:normal;font-variant:normal;text-anchor:middle;text-align:center;writing-mode:lr;line-height:100%"><flowRegion
+       id="flowRegion4130"><rect
+         id="rect4132"
+         width="220"
+         height="170"
+         x="820"
+         y="1142" /></flowRegion><flowPara
+       id="flowPara4134"></flowPara></flowRoot></svg>

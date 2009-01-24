@@ -17,7 +17,7 @@
    sodipodi:docname="map.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
-   inkscape:export-filename="/home/russ/Desktop/Glasto map.png"
+   inkscape:export-filename="/home/russ/Documents/Glastonbury Maps/20090124.png"
    inkscape:export-xdpi="250.01105"
    inkscape:export-ydpi="250.01105"
    style="display:inline">
@@ -101,9 +101,9 @@
      objecttolerance="10"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="926.30545"
-     inkscape:cy="1191.9323"
+     inkscape:zoom="0.5"
+     inkscape:cx="1105.9208"
+     inkscape:cy="864.32165"
      inkscape:document-units="px"
      inkscape:current-layer="layer9"
      showgrid="false"
@@ -3259,18 +3259,18 @@
     <text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
-       x="635.87152"
-       y="772.04846"
+       x="625.87152"
+       y="766.04846"
        id="text3498"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
-         x="635.87152"
-         y="772.04846"
+         x="625.87152"
+         y="766.04846"
          id="tspan3502"
          style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Bitstream Vera Sans Bold">Dance</tspan><tspan
          sodipodi:role="line"
-         x="635.87152"
-         y="790.04846"
+         x="625.87152"
+         y="784.04846"
          id="tspan4110"
          style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Bitstream Vera Sans Bold">Area</tspan></text>
     <text
@@ -3398,14 +3398,14 @@
     <text
        xml:space="preserve"
        style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
-       x="936.14288"
-       y="559.85712"
+       x="930.14288"
+       y="552.85712"
        id="text3815"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3817"
-         x="936.14288"
-         y="559.85712">Hawkwell</tspan></text>
+         x="930.14288"
+         y="552.85712">Hawkwell</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
@@ -3632,11 +3632,11 @@
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan2911"
-         x="932.26971"
+         x="934.33905"
          y="1319.9751">Healing </tspan><tspan
          sodipodi:role="line"
          x="932.26971"
-         y="1319.9751"
+         y="1332.9751"
          id="tspan4138">Field</tspan></text>
     <text
        xml:space="preserve"
@@ -3812,25 +3812,25 @@
     <text
        xml:space="preserve"
        style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
-       x="1462.1541"
-       y="613.92511"
+       x="1473.8138"
+       y="612.90033"
        id="text4155"
        sodipodi:linespacing="100%"
        transform="matrix(0.9062635,0.4227133,-0.4227133,0.9062635,0,0)"><tspan
          sodipodi:role="line"
          id="tspan4157"
-         x="1462.1541"
-         y="613.92511">West Holts</tspan></text>
+         x="1473.8138"
+         y="612.90033">West Holts</tspan></text>
     <text
-       transform="matrix(0.8436102,0.5369561,-0.5369561,0.8436102,0,0)"
+       transform="matrix(0.8825534,0.4702121,-0.4702121,0.8825534,0,0)"
        sodipodi:linespacing="100%"
        id="text4159"
-       y="413.42947"
-       x="1645.6536"
-       style="font-size:12.99999905px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       y="536.62164"
+       x="1607.7427"
+       style="font-size:12.99999809px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
        xml:space="preserve"><tspan
-         y="413.42947"
-         x="1645.6536"
+         y="536.62164"
+         x="1607.7427"
          id="tspan4161"
          sodipodi:role="line">East Holts</tspan></text>
     <text
@@ -3911,50 +3911,62 @@
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
-       x="592.2019"
-       y="755.35022"
+       x="556.2019"
+       y="717.35022"
        id="text5660"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan5662"
-         x="592.2019"
-         y="755.35022">West Dance</tspan></text>
+         x="557.7937"
+         y="717.35022">West </tspan><tspan
+         sodipodi:role="line"
+         x="556.2019"
+         y="727.35022"
+         id="tspan3267">Dance</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
-       x="640.63879"
-       y="704.43848"
+       x="671.63879"
+       y="694.43848"
        id="text5664"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan5666"
-         x="640.63879"
-         y="704.43848">East Dance</tspan></text>
+         x="673.23059"
+         y="694.43848">East </tspan><tspan
+         sodipodi:role="line"
+         x="671.63879"
+         y="704.43848"
+         id="tspan3265">Dance</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
-       x="719.15076"
-       y="768.21448"
+       x="674.15076"
+       y="781.21448"
        id="text5668"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan5670"
-         x="719.15076"
-         y="768.21448">Pussy Parlure</tspan></text>
+         x="675.74255"
+         y="781.21448">Pussy </tspan><tspan
+         sodipodi:role="line"
+         x="674.15076"
+         y="791.21448"
+         id="tspan3263">Parlure</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
-       x="742.3609"
-       y="781.92157"
+       x="745.3609"
+       y="778.92157"
        id="text5672"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan5674"
-         x="742.3609"
-         y="781.92157">The Lounge</tspan><tspan
+         x="745.3609"
+         y="778.92157">The Lounge</tspan><tspan
          sodipodi:role="line"
-         x="742.3609"
-         y="791.92157"
+         x="745.3609"
+         y="788.92157"
          id="tspan5676">Bar</tspan></text>
     <text
        xml:space="preserve"
@@ -3974,14 +3986,14 @@
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
-       x="618.92157"
-       y="808.71448"
+       x="622.92157"
+       y="806.71448"
        id="text5684"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan5686"
-         x="620.51337"
-         y="808.71448">G Stage </tspan></text>
+         x="624.51337"
+         y="806.71448">G Stage </tspan></text>
     <text
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
@@ -4079,14 +4091,14 @@
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
-       x="1073.0345"
-       y="524.12628"
+       x="1096.0345"
+       y="561.12628"
        id="text5768"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan5770"
-         x="1073.0345"
-         y="524.12628">Worthy Farm</tspan></text>
+         x="1096.0345"
+         y="561.12628">Worthy Farm</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
@@ -4186,24 +4198,24 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot4098"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Bitstream Vera Sans;font-style:normal;font-weight:normal;font-size:10px;-inkscape-font-specification:Bitstream Vera Sans;font-stretch:normal;font-variant:normal;text-anchor:middle;text-align:center;writing-mode:lr;line-height:100%"><flowRegion
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"><flowRegion
          id="flowRegion4100"><rect
            id="rect4102"
            width="39.59798"
            height="29.698484"
            x="937.6236"
            y="732.36926" /></flowRegion><flowPara
-         id="flowPara4104"></flowPara></flowRoot>    <flowRoot
+         id="flowPara4104" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4112"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Bitstream Vera Sans;font-style:normal;font-weight:normal;font-size:10px;-inkscape-font-specification:Bitstream Vera Sans;font-stretch:normal;font-variant:normal;text-anchor:middle;text-align:center;writing-mode:lr;line-height:100%"><flowRegion
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"><flowRegion
          id="flowRegion4114"><rect
            id="rect4116"
            width="15.556349"
            height="11.313708"
            x="633.56769"
            y="780.45251" /></flowRegion><flowPara
-         id="flowPara4118"></flowPara></flowRoot>  </g>
+         id="flowPara4118" /></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer17"
@@ -4637,7 +4649,7 @@
          x="1620.707"
          y="440.14178"
          style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
-         id="tspan4222">© 2008 Russ Garrett. Released under a </tspan><tspan
+         id="tspan4222">© 2009 Russ Garrett. Released under a </tspan><tspan
          sodipodi:role="line"
          x="1619.2744"
          y="449.14178"

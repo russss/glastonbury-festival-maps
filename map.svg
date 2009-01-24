@@ -147,6 +147,7 @@
        xlink:href="fineguide-08-may(1).jpg" />
   </g>
   <g
+     inkscape:label="2008 Fine Guide Map"
      inkscape:groupmode="layer"
      id="layer4"
      style="opacity:0.36750482;display:none"
@@ -4280,7 +4281,7 @@
          height="38"
          x="798"
          y="1178" /></flowRegion><flowPara
-       id="flowPara4126"></flowPara></flowRoot>  <flowRoot
+       id="flowPara4126" /></flowRoot>  <flowRoot
      xml:space="preserve"
      id="flowRoot4128"
      style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Bitstream Vera Sans;font-style:normal;font-weight:normal;font-size:10px;-inkscape-font-specification:Bitstream Vera Sans;font-stretch:normal;font-variant:normal;text-anchor:middle;text-align:center;writing-mode:lr;line-height:100%"><flowRegion
@@ -4290,4 +4291,4 @@
          height="170"
          x="820"
          y="1142" /></flowRegion><flowPara
-       id="flowPara4134"></flowPara></flowRoot></svg>
+       id="flowPara4134" /></flowRoot></svg>
